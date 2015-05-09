@@ -7,6 +7,8 @@ The program takes a lot of code and a lot of checks and balances.
 
 I put some jokes in to hopefully increase the fun factor. The game is played entirely in the console. The code is not the prettiest. It is all done in one script and can be confusing to read, but I hope you find something usefull.
 
+This game was made for IGN's 2015 Code Foo Challenge.
+
 Below are some pics.
 
 ![Alt text](/screenshots/bs1.PNG?raw=true)
